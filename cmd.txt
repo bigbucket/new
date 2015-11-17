@@ -5,3 +5,4 @@ checkout
 cmd - checkout "branchname" //enter into branch
 merge
 cmd - merge "branchname"
+mergetool
